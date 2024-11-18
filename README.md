@@ -1,4 +1,3 @@
-## Hi there 👋
 I’m a passionate software developer with experience in various programming languages and technologies. I love building solutions and learning new tools to enhance my skills.
 
 ----------------------------------------------------------------------------------------------------------------------------------
@@ -24,13 +23,11 @@ I’m a passionate software developer with experience in various programming lan
 ---
 
 ## 🚀 Featured Projects
-- [Project 1](https://github.com/tu-usuario/proyecto-1): Breve descripción del proyecto.
-- [Project 2](https://github.com/tu-usuario/proyecto-2): Breve descripción del proyecto.
 
 ---
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bruno-omar-chochoca-yarleque-2368a4294/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](bruno.chochoca@unmsm.edu.pe)
 
 ---------------------------------------------------------------------------------------------------------------------------------
