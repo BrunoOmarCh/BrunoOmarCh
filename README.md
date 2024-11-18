@@ -1,16 +1,36 @@
 ## Hi there 👋
+I’m a passionate software developer with experience in various programming languages and technologies. I love building solutions and learning new tools to enhance my skills.
 
-<!--
-**BrunoOmarCh/BrunoOmarCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----------------------------------------------------------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+<h2 align="center">🛠️ Technologies and Tools</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Platforms
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+
+### 🚀 Frameworks and Tools
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+- [Project 1](https://github.com/tu-usuario/proyecto-1): Breve descripción del proyecto.
+- [Project 2](https://github.com/tu-usuario/proyecto-2): Breve descripción del proyecto.
+
+---
+
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/tu-usuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+
+---------------------------------------------------------------------------------------------------------------------------------
