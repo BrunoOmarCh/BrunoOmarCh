@@ -8,18 +8,16 @@
 
 ## About Me
 
-## About Me
-
 <table>
 <tr>
-<td style="width:70%;">
+<td style="width:50%;">
 <p align="justify">
 I’m a passionate software developer with experience in various programming languages and technologies. I love building solutions and learning new tools to enhance my skills.  
 <br><br>
 Quick learner and eager to explore new technologies. Skilled at alternating between perfectionism and pragmatism. Believer in agile software development, teamwork, and clean code. Always questioning the status quo and striving for improvement. Capable and willing to think innovatively.
 </p>
 </td>
-<td style="width:30%;">
+<td style="width:50%;">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG80cHhlMnpjNHFoaWNmNG54enh4ZTB5NnR2ZDBoaDhza3F4Y3FxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIL6YAcTsdoBO/giphy.gif" height="300" style="border-radius:10px;"/>
 </td>
 </tr>
